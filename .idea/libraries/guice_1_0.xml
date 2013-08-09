@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="guice-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/guice-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mockito-all-1.9.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/mockito-all-1.9.5.jar!/" />
+    </SOURCES>
+  </library>
+</component>
